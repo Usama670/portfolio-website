@@ -1,0 +1,1 @@
+export const skills = [{category:'Frontend',items:['React','TypeScript','JavaScript','HTML5','CSS3','Tailwind CSS']},{category:'Programming',items:['Python']},{category:'Tools',items:['Git','GitHub','Vite']},{category:'AI / APIs',items:['Gemini API','Claude API']}];
