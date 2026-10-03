@@ -13,7 +13,7 @@ body,header,.code-card,.tech-icon,.mobile-nav,dialog,.github-section{transition:
 @media(prefers-reduced-motion:reduce){:root{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}.project-preview:hover img{transform:none}}
 
 :root[data-theme=light] .code-purple{color:#6d468e}
-.github-section>.button{margin-left:24px;flex-shrink:0;white-space:nowrap}
+.github-section>.button{flex:0 0 auto;margin-left:auto;padding-inline:23px;white-space:nowrap}
 
 .section-title{display:block;text-align:center;margin-bottom:55px}
 .section-title>.eyebrow{display:block;margin-bottom:14px;color:var(--accent);font-size:13px}
